@@ -28,7 +28,7 @@ For detailed walk-through, please view the source code in order from:
 
 ## Presentation
 
-The video to the presentation can be accessed on Youtube [here](https://youtu.be/IUqfuVxWN-Q). Slides also uploaded to the repository for easy viewing.
+The video to the presentation can be accessed on Youtube [here](https://youtu.be/IUqfuVxWN-Q). Slides are also uploaded to the repository for easy viewing.
 
 ## Conclusion
 
